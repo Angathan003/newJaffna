@@ -55,196 +55,2322 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+June 15, 2025
+ISSN 3084-8962
+Rs. 1000
+How Noolaham.org Gave the 
+Jaffna Library Arsonists a 
+Digital Middle Finger
+...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
 
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+October 15, 2024
+Fortnightly Edition
+Rs. 750
+By the Early 1980s, 
+Prabhakaran  Saw Himself as 
+a Divine Incarnation, Justify...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
 
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+October 01, 2024
+Fortnightly Edition
+Rs. 750
+JVP’s Third 
+Revolution: 
+AKD Led with 
+Ballots, Not Bullets
+...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
 
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+September 15, 2024
+Fortnightly Edition
+Rs. 500
+ Majority Will Vote for Him, Says 
+Douglas Devananda
+With Courage and Duty, R...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
 
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
-        
-
-        
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+September 01, 2024
+FORTNIGHTLY EDITION
+Rs. 500
+Exclusive Interview with Speaker Mahinda Yapa Abeywardena
+Tamil Nationalist P...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
 
-        
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+August 20, 2024
+Fortnightly Edition
+Rs. 500
+"Former LTTE Fighters Now Rely on 
+Government Help - Where Is the 
+So-Called Pow...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
 
-        
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+August 01, 2024
+Fortnightly Edition
+Rs. 500
+LTTE Turning Its Weapons Against the Tamil 
+Community It Claimed to Represent La...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
 
-        
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+July 15, 2024
+Fortnightly Edition
+Rs. 500
+Sampanthan's 
+Political Journey: 
+From Leader to 
+Disregarded Elder
+...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
 
-        
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+July 01, 2024
+Fortnightly Edition
+Rs. 500
+''The Church Now Realizes There's No 
+Conspiracy in the Easter Attack, But They've...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
 
-        
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+June 15, 2024
+Fortnightly Edition
+Rs. 500
+Exclusive Interview with 
+Writer V.V. Ganeshananthan
+"Literature Cannot 
+Replace P...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
 
-        
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+June 01, 2024
+Fortnightly Edition
+Rs. 500
+Exclusive Interview with Prabhakaran's 
+Elder Brother Manoharan
+Prabhakaran and Hi...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
 
-        
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+May 15, 2025
+ISSN 3084-8962
+Rs. 1000
+"Prabhakaran Was Very 
+Clear-Eyed That He and His Family
+May Die Fighting for Tamil Eel...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
 
-        
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+May 15, 2024
+Fortnightly Edition
+Rs. 500
+Erik Solheim: 
+13th Amendment is a 
+Crucial Step Forward 
+for the Tamil Quest in 
+S...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
 
-        
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+May 01, 2024
+Fortnightly Edition
+Rs. 500
+Crisis in Sri Lanka's 
+Coconut Plantations
+The White Fly Onslaught:
+...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
 
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+April 18, 2024
+Fortnightly Edition
+Rs. 500
+Verugal Massacre: 
+20 Years Since the 
+Most Infamous Betrayal
+...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+April 01, 2024
+Fortnightly Edition
+Rs. 500
+Exclusive Interview with Shobasakthi
+Disturbing the Readers' Peace is 
+the Essenc...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+March 15, 2024
+Fortnightly Edition
+Rs. 500
+Sri Lanka 
+Cricket's 
+revival: 
+Gotabaya 
+Rajapaksa's 
+Version of 
+History
+Deepik...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+March 01, 2024
+Fortnightly Edition
+Rs. 500
+Ultra vs. Ultra-Plus: 
+The Battle of Tamil Nationalism
+Setting the Record Straigh...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+February 15, 2024
+Fortnightly Edition
+Rs. 500
+Who 
+is the 
+Traitor?
+Exclusive 
+Interview with 
+Karuna Amman
+...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+The Story of 
+Charles Antony
+February 01, 2024
+Fortnightly Edition
+Rs. 250
+From War-Torn 
+Beginnings to 
+Tech Triumph:
+The I...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+The Tragic Tale 
+of Suseelan
+Let the People Decide 
+My Political Journey: 
+Douglas Devananda
+January 15, 2024
+Fortnightly Ed...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+Power, Paranoia, 
+and Politics in the LTTE
+January 01, 2024
+Fortnightly Edition
+Rs. 250
+Mahathaya's Saga:
+
+...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+April 15, 2025
+ISSN 3084-8962
+Rs. 750
+7.7 Quake, Zero Mercy: 
+Jaffna Monitor’s 
+Ground Report from 
+Myanmar
+How I Uncovered ...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+Operation 
+Impersonation
+Fake Duwaraka Decoded
+December 15, 2023
+FORTNIGHTLY EDITION
+Rs. 250
+...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+December 2023
+EDITION TWO
+Rs. 250
+Unforgivable Sin:
+The Muslim Expulsion
+Sumanthiran's 
+Challenge to 
+Sampanthan
+
+...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Unknown</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaff na Monitor
+hellojaff namonitor@gmail.com
+1
+EDITION ONE
+Rs. 250
+The Dual 
+Legacy of 
+Thileepan
+Thileepan
+Days of Agony
+5,000
+Bankruptcy 
+of TNPF's 
+Politics
+
+
+
+...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+March 15, 2025
+ISSN 3084-8962
+Rs. 750
+''Sri Lanka Remains 
+Reluctant to Address 
+Missing Persons, Land 
+Returns, Accountabil...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+February 15, 2025
+Rs. 750
+‘The Military That Fought 
+the War Should Have Been 
+Rehabilitated, Just Like the 
+Surrendered LTT...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+January 15, 2025
+Rs. 750
+Seeds of Change: Why 
+Sri Lanka Must Embrace 
+Private Medical Education
+...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+December 15, 2024
+Rs. 750
+Farewell to Dr. Raviraj: The 
+Hands That Saved Jaffna
+...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+November 20, 2024
+Fortnightly Edition
+Rs. 750
+North and East Bid Farewell 
+to Rhetoric Tamil Nationalism, 
+Embrace a Unified...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">article_1</h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">article_1
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+1
+November 01, 2024
+Fortnightly Edition
+Rs. 750
+Wings of Deception: 
+How a Former LTTE Pilot and a 
+Female Ex-Commander Exploi...</p>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center"><span class="text-white text-4xl font-bold">JM</span></div>
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+18
+08
+62
+70
+60
+50
+78
+84
+33
+68
+76
+56
+80
+38
+58
+41
+Editorial
+A Digital Middle Finger 
+to the Arsonists...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+05
+33
+46
+23
+06
+35
+24
+08
+26
+49
+51
+50
+53
+09
+31
+47
+Editorial
+Jaffna Elections:  23 
+Parties, 21 Indepe...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+05
+46
+51
+34
+15
+49
+35
+17
+42
+24
+43
+Editorial
+JVP's Third Revolution: 
+AKD Led with Ballots, 
+Not Bull...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center"><span class="text-white text-4xl font-bold">JM</span></div>
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+05
+25
+38
+44
+50
+55
+12
+07
+34
+40
+48
+51
+42
+13
+08
+22
+11
+23
+Editorial
+Mavai Greets Ranil: 
+Politics Serve...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+05
+41
+44
+33
+08
+42
+46
+55
+38
+10
+39
+31
+40
+Editorial
+Ajit Doval Meets Tamil 
+Leaders: A Crash 
+Course i...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+04
+45
+53
+33
+10
+48
+34
+28
+42
+29
+44
+Editorial
+From East to Least: The 
+Common Tamil Candi-
+date Comedy...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+05
+57
+33
+18
+68
+44
+21
+51
+30
+54
+Editorial
+M. R. Narayan Swamy 
+Interview
+The story of how Navalar 
+br...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+06
+36
+32
+08
+37
+45
+33
+09
+39
+47
+56
+34
+31
+41
+50
+35
+Editorial
+5.87 Kilograms of 
+Kerala Ganja Seized in...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+05
+44
+35
+10
+47
+59
+38
+12
+52
+65
+39
+33
+57
+42
+Editorial
+A Day of Diplomacy and 
+Drama: Dr. Jaishankar 
+...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+12
+04
+28
+16
+29
+20
+30
+47
+23
+33
+38
+50
+Editorial
+Pixelated Punchlines
+The Passing of 
+Vinayagam, One o...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+19
+04
+28
+23
+30
+24
+40
+52
+26
+42
+43
+55
+Editorial
+Jaffna Hindu College 
+Student’s Path to 
+Medical Facu...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center"><span class="text-white text-4xl font-bold">JM</span></div>
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+24
+12
+73
+87
+65
+52
+27
+78
+54
+37
+64
+39
+Editorial
+How China Stood by 
+Sri Lanka Then — 
+and Now
+"Prabha...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+05
+35
+17
+37
+28
+45
+32
+46
+49
+Editorial
+Sri Lanka’s World Cup 
+Dream Team: Young 
+Talents and Trusted ...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+05
+18
+08
+20
+12
+22
+30
+36
+34
+40
+15
+23
+25
+32
+38
+Editorial
+2019 Whitefly Outbreak:  
+A Turning Point in...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+04
+30
+13
+34
+19
+36
+44
+48
+27
+39
+41
+46
+Editorial
+Despite LTTE Leadership's 
+Intent to Destroy Us, We 
+...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+04
+18
+34
+06
+20
+42
+14
+22
+44
+28
+32
+17
+24
+53
+26
+30
+Editorial
+Nurturing the Future: 
+Sri Lanka Embraces...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+04
+16
+06
+18
+08
+24
+36
+12
+25
+32
+38
+Editorial
+A Symphony of Solace
+From Ousted President 
+to Author: G...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+05
+24
+08
+27
+13
+35
+42
+16
+37
+36
+45
+Editorial
+Ultra vs. Ultra-Plus: 
+The Battle of Tamil 
+Nationalism
+...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+04
+23
+16
+27
+18
+32
+38
+22
+34
+36
+42
+Editorial
+Who is the Trait? 
+Exclusive Interview with 
+Karuna Amma...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+04
+21
+14
+27
+16
+29
+42
+20
+30
+36
+45
+Editorial
+from War-Torn 
+Beginnings to Tech 
+Triumph: The Inspirin...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+04
+26
+13
+28
+15
+34
+38
+16
+35
+Editorial
+Let the People Decide 
+My Political Journey: 
+Douglas Devanand...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+04
+26
+06
+28
+36
+42
+08
+30
+39
+43
+25
+31
+40
+Editorial
+Kilmisha Yaazhisai: 
+Jaffna's Melodious 
+Nightinga...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center"><span class="text-white text-4xl font-bold">JM</span></div>
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+19
+08
+46
+59
+43
+24
+58
+56
+31
+58
+75
+41
+43
+69
+85
+Editorial
+Modi Preaches Unity, 
+Tamil Leaders Ask: 
+‘W...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+04
+14
+06
+15
+21
+29
+08
+16
+23
+33
+09
+18
+25
+Editorial
+Jaffna University's 
+Enrollment Challenge:
+No Loca...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+04
+17
+08
+23
+29
+12
+25
+35
+40
+15
+27
+38
+Editorial
+Sumanthiran's 
+Challenge to 
+Sampanthan's Tenure
+The ...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Unknown</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaff na Monitor
+hellojaff namonitor@gmail.com
+2
+Monitor’s Map
+
+03
+04
+13
+07
+16
+22
+09
+19
+25
+32
+12
+20
+29
+Editorial
+Th e Forgotten Faces of 
+the Tamil Struggle: A 
+Ple...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+13
+07
+46
+59
+26
+15
+58
+28
+16
+29
+71
+18
+43
+62
+Editorial
+Sumanthiran Eyes 
+Parliament Seat? 
+Sritharan S...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+07
+55
+58
+24
+17
+56
+44
+18
+48
+79
+22
+54
+66
+Editorial
+Exclusive Interview with 
+Vajra Chandrasekera
+Indi...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center"><span class="text-white text-4xl font-bold">JM</span></div>
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+06
+31
+72
+56
+56
+32
+53
+29
+43
+Editorial
+Seeds of Change: Why 
+Sri Lanka Must Embrace 
+Private Medical ...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center"><span class="text-white text-4xl font-bold">JM</span></div>
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+06
+22
+54
+38
+24
+65
+63
+27
+11
+25
+Editorial
+Leptospirosis Identified 
+as Cause of Fatal Fever 
+in Jaffn...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center"><span class="text-white text-4xl font-bold">JM</span></div>
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+06
+26
+38
+41
+31
+53
+40
+34
+66
+15
+33
+61
+Editorial
+North and East Bid 
+Farewell to Rhetoric Tamil 
+Natio...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
+        
+
+        <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
+            <img src="assets/images/002_monitors_map/p002_i1.jpg" alt="Monitor’s Map " class="w-full h-48 object-cover rounded-t-lg">
+            <div class="p-6 flex-1 flex flex-col">
+                <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                    <span>Unknown</span>
+                    <span class="mx-2">•</span>
+                    <span>Jaffna Monitor</span>
+                </div>
+                <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">Monitor’s Map </h3>
+                <p class="text-gray-600 mb-4 line-clamp-3">Monitor’s Map 
+Jaffna Monitor
+hellojaffnamonitor@gmail.com
+2
+Monitor’s Map
+
+03
+05
+54
+22
+12
+42
+Editorial
+Cover Story: Wings of 
+Deception: How a Former 
+LTTE Pilot and a Female Ex...</p>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">
+                    Read More
+                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                    </svg>
+                </a>
+            </div>
+        </article>
         
 
         <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
