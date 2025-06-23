@@ -8,7 +8,19 @@
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?display=swap&amp;family=Newsreader%3Awght%40400%3B500%3B700%3B800&amp;family=Noto+Sans%3Awght%40400%3B500%3B700%3B900" />
     <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="assets/styles.css">
+    <style>
+        .news-card {
+            transition: all 0.3s ease;
+        }
+        .news-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        .gradient-bg {
+            background: linear-gradient(135deg, #fcfbf8 0%, #f3f0e7 100%);
+        }
+    </style>
 </head>
 <body class="bg-[#fcfbf8] font-['Newsreader','Noto_Sans',sans-serif]">
     <!-- Header -->
@@ -44,7 +56,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 
         <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
-            <img src="images_out/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg mb-4">
+            <img src="assets/images/001_article_1/p001_i1.jpg" alt="article_1" class="w-full h-48 object-cover rounded-t-lg">
             <div class="p-6 flex-1 flex flex-col">
                 <div class="flex items-center text-sm text-[#9b844b] mb-2">
                     <span>Unknown</span>
@@ -61,7 +73,7 @@ Rs. 750
 Farewell to Dr. Raviraj: The 
 Hands That Saved Jaffna
 ...</p>
-                <a href="001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+                <a href="articles/001_article_1.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </article>
         
@@ -96,13 +108,13 @@ Editorial
 Leptospirosis Identified 
 as Cause of Fatal Fever 
 in Jaffn...</p>
-                <a href="002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+                <a href="articles/002_monitors_map.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </article>
         
 
         <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
-            <img src="images_out/003_a_legacy_etched_in_courage_farewell_to_dr_s_ravira/p003_i1.jpg" alt="A Legacy Etched in Courage: Farewell to Dr. S. Raviraj" class="w-full h-48 object-cover rounded-t-lg mb-4">
+            <img src="assets/images/003_a_legacy_etched_in_courage_farewell_to_dr_s_ravira/p003_i1.jpg" alt="A Legacy Etched in Courage: Farewell to Dr. S. Raviraj" class="w-full h-48 object-cover rounded-t-lg">
             <div class="p-6 flex-1 flex flex-col">
                 <div class="flex items-center text-sm text-[#9b844b] mb-2">
                     <span>Unknown</span>
@@ -119,13 +131,13 @@ Fortnightly Edition
 Rs. 750
 Farewell to Dr. Raviraj: The 
 Han...</p>
-                <a href="003_a_legacy_etched_in_courage_farewell_to_dr_s_ravira.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+                <a href="articles/003_a_legacy_etched_in_courage_farewell_to_dr_s_ravira.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </article>
         
 
         <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
-            <img src="images_out/004_what_you_need_to_know_about_rat_fever_leptospirosi/p008_i1.jpg" alt="What You Need to Know About Rat Fever (Leptospirosis)" class="w-full h-48 object-cover rounded-t-lg mb-4">
+            <img src="assets/images/004_what_you_need_to_know_about_rat_fever_leptospirosi/p008_i1.jpg" alt="What You Need to Know About Rat Fever (Leptospirosis)" class="w-full h-48 object-cover rounded-t-lg">
             <div class="p-6 flex-1 flex flex-col">
                 <div class="flex items-center text-sm text-[#9b844b] mb-2">
                     <span>Unknown</span>
@@ -140,13 +152,13 @@ hellojaffnamonitor@gmail.com
 What is Rat Fever?
 Rat Fever, scientifically known as 
 Leptospirosis, is a bacte...</p>
-                <a href="004_what_you_need_to_know_about_rat_fever_leptospirosi.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+                <a href="articles/004_what_you_need_to_know_about_rat_fever_leptospirosi.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </article>
         
 
         <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
-            <img src="images_out/005_why_is_leptospirosis_famously_called_rat_fever_are/p009_i1.jpg" alt="Why is Leptospirosis famously called "Rat Fever"? Are rats the real villains here?" class="w-full h-48 object-cover rounded-t-lg mb-4">
+            <img src="assets/images/005_why_is_leptospirosis_famously_called_rat_fever_are/p009_i1.jpg" alt="Why is Leptospirosis famously called "Rat Fever"? Are rats the real villains here?" class="w-full h-48 object-cover rounded-t-lg">
             <div class="p-6 flex-1 flex flex-col">
                 <div class="flex items-center text-sm text-[#9b844b] mb-2">
                     <span>Unknown</span>
@@ -160,13 +172,13 @@ hellojaffnamonitor@gmail.com
 9
 caused by Cyclone Pengal, our house in 
 the Vadamar...</p>
-                <a href="005_why_is_leptospirosis_famously_called_rat_fever_are.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+                <a href="articles/005_why_is_leptospirosis_famously_called_rat_fever_are.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </article>
         
 
         <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
-            <img src="images_out/006_tamil_nationalist_leaders/p022_i1.jpg" alt="Tamil Nationalist Leaders:" class="w-full h-48 object-cover rounded-t-lg mb-4">
+            <img src="assets/images/006_tamil_nationalist_leaders/p022_i1.jpg" alt="Tamil Nationalist Leaders:" class="w-full h-48 object-cover rounded-t-lg">
             <div class="p-6 flex-1 flex flex-col">
                 <div class="flex items-center text-sm text-[#9b844b] mb-2">
                     <span>22</span>
@@ -182,13 +194,13 @@ F
 aced with an unexpected blow dealt by 
 the ruling NPP, which clinched 3 out of 6 
 parliamentary seats in...</p>
-                <a href="006_tamil_nationalist_leaders.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+                <a href="articles/006_tamil_nationalist_leaders.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </article>
         
 
         <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
-            <img src="images_out/007_monitor_memo/p024_i1.jpg" alt="Monitor Memo" class="w-full h-48 object-cover rounded-t-lg mb-4">
+            <img src="assets/images/007_monitor_memo/p024_i1.jpg" alt="Monitor Memo" class="w-full h-48 object-cover rounded-t-lg">
             <div class="p-6 flex-1 flex flex-col">
                 <div class="flex items-center text-sm text-[#9b844b] mb-2">
                     <span>24</span>
@@ -205,13 +217,13 @@ r. Thangamuthu Sathyamoorthy, Director
 of Jaffna Teaching Hospital, stated 
 that if Member of Parliament Ramanathan 
 ...</p>
-                <a href="007_monitor_memo.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+                <a href="articles/007_monitor_memo.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </article>
         
 
         <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
-            <img src="images_out/008_monitor_memo/p025_i1.jpg" alt="Monitor Memo" class="w-full h-48 object-cover rounded-t-lg mb-4">
+            <img src="assets/images/008_monitor_memo/p025_i1.jpg" alt="Monitor Memo" class="w-full h-48 object-cover rounded-t-lg">
             <div class="p-6 flex-1 flex flex-col">
                 <div class="flex items-center text-sm text-[#9b844b] mb-2">
                     <span>25</span>
@@ -228,13 +240,13 @@ orthern Province Governor N.
 Vethanayagan has urged the release of 
 lands still under the control of the security 
 fo...</p>
-                <a href="008_monitor_memo.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+                <a href="articles/008_monitor_memo.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </article>
         
 
         <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
-            <img src="images_out/009_the_most_brutal_internal_killings_took_place_in_pl/p027_i1.jpg" alt="The Most Brutal Internal Killings Took Place in PLOTE: 'PLOTE's Killing Squad Began to Enjoy It, Asking, Is There No One Left to Kill?'" class="w-full h-48 object-cover rounded-t-lg mb-4">
+            <img src="assets/images/009_the_most_brutal_internal_killings_took_place_in_pl/p027_i1.jpg" alt="The Most Brutal Internal Killings Took Place in PLOTE: 'PLOTE's Killing Squad Began to Enjoy It, Asking, Is There No One Left to Kill?'" class="w-full h-48 object-cover rounded-t-lg">
             <div class="p-6 flex-1 flex flex-col">
                 <div class="flex items-center text-sm text-[#9b844b] mb-2">
                     <span>27</span>
@@ -246,13 +258,13 @@ fo...</p>
 Jaffna Monitor
 hellojaffnamonitor@gmail.com
 ...</p>
-                <a href="009_the_most_brutal_internal_killings_took_place_in_pl.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+                <a href="articles/009_the_most_brutal_internal_killings_took_place_in_pl.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </article>
         
 
         <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
-            <img src="images_out/010_nathaswara_osaiyile_ehjtu_xirapny_an_ancient_art_f/p038_i1.jpg" alt="“Nathaswara Osaiyile” (ehj];tu XirapNy) : An ancient art form that defines a people" class="w-full h-48 object-cover rounded-t-lg mb-4">
+            <img src="assets/images/010_nathaswara_osaiyile_ehjtu_xirapny_an_ancient_art_f/p038_i1.jpg" alt="“Nathaswara Osaiyile” (ehj];tu XirapNy) : An ancient art form that defines a people" class="w-full h-48 object-cover rounded-t-lg">
             <div class="p-6 flex-1 flex flex-col">
                 <div class="flex items-center text-sm text-[#9b844b] mb-2">
                     <span>38</span>
@@ -266,13 +278,13 @@ hellojaffnamonitor@gmail.com
 38
 Background: The eminent scholar late 
 Professor K...</p>
-                <a href="010_nathaswara_osaiyile_ehjtu_xirapny_an_ancient_art_f.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+                <a href="articles/010_nathaswara_osaiyile_ehjtu_xirapny_an_ancient_art_f.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </article>
         
 
         <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
-            <img src="images_out/011_dharma_justice_and_human_rights/p054_i1.jpg" alt="Dharma, Justice and Human Rights" class="w-full h-48 object-cover rounded-t-lg mb-4">
+            <img src="assets/images/011_dharma_justice_and_human_rights/p054_i1.jpg" alt="Dharma, Justice and Human Rights" class="w-full h-48 object-cover rounded-t-lg">
             <div class="p-6 flex-1 flex flex-col">
                 <div class="flex items-center text-sm text-[#9b844b] mb-2">
                     <span>54</span>
@@ -288,13 +300,13 @@ D
 harma is a systematic Sanskrit concept 
 that includes traditions, obligation, 
 morals, laws, order...</p>
-                <a href="011_dharma_justice_and_human_rights.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+                <a href="articles/011_dharma_justice_and_human_rights.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </article>
         
 
         <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
-            <img src="images_out/012_human_rights_and_inhuman_wrongs/p057_i1.jpg" alt="Human Rights and inhuman wrongs" class="w-full h-48 object-cover rounded-t-lg mb-4">
+            <img src="assets/images/012_human_rights_and_inhuman_wrongs/p057_i1.jpg" alt="Human Rights and inhuman wrongs" class="w-full h-48 object-cover rounded-t-lg">
             <div class="p-6 flex-1 flex flex-col">
                 <div class="flex items-center text-sm text-[#9b844b] mb-2">
                     <span>2010 in the Northern</span>
@@ -311,13 +323,13 @@ statistics from the human
 rights commission of 
 complaints received since 
 2...</p>
-                <a href="012_human_rights_and_inhuman_wrongs.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+                <a href="articles/012_human_rights_and_inhuman_wrongs.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </article>
         
 
         <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg flex flex-col">
-            <img src="images_out/013_monitor_memo/p063_i1.jpg" alt="Monitor Memo" class="w-full h-48 object-cover rounded-t-lg mb-4">
+            <img src="assets/images/013_monitor_memo/p063_i1.jpg" alt="Monitor Memo" class="w-full h-48 object-cover rounded-t-lg">
             <div class="p-6 flex-1 flex flex-col">
                 <div class="flex items-center text-sm text-[#9b844b] mb-2">
                     <span>63</span>
@@ -334,7 +346,7 @@ emarks made by MP Kitnan Selvaraj,
 a first-time Tamil parliamentarian 
 representing the National People's Power 
 (NPP...</p>
-                <a href="013_monitor_memo.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+                <a href="articles/013_monitor_memo.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </article>
         
@@ -357,7 +369,7 @@ JAFFNA MONITOR PUBLICATIONS
 Bank Name : 
 National Development Bank PLC
 Branch Nam...</p>
-                <a href="014_full_name_jaffna_monitor_publications.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
+                <a href="articles/014_full_name_jaffna_monitor_publications.html" class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium mt-auto">Read More<svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg></a>
             </div>
         </article>
         
