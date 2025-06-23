@@ -1,0 +1,463 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?display=swap&amp;family=Newsreader%3Awght%40400%3B500%3B700%3B800&amp;family=Noto+Sans%3Awght%40400%3B500%3B700%3B900"
+    />
+
+    <title>Monitor Memo</title>
+    <link rel="icon" type="image/x-icon" href="data:image/x-icon;base64," />
+
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .prose img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin: 2rem 0;
+        }
+        .prose h1, .prose h2, .prose h3 {
+            color: #1c170d;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        .prose p {
+            margin-bottom: 1.5rem;
+            line-height: 1.7;
+        }
+    </style>
+  </head>
+  <body class="bg-[#fcfbf8] font-['Newsreader','Noto_Sans',sans-serif]">
+    <!-- Header -->
+    <header class="bg-white shadow-sm border-b border-[#f3f0e7] sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center space-x-4">
+                    <a href="index.html" class="flex items-center space-x-4 hover:opacity-80 transition-opacity">
+                        <div class="w-12 h-12 bg-[#9b844b] rounded-full flex items-center justify-center">
+                            <span class="text-white font-bold text-xl">JM</span>
+                        </div>
+                        <div>
+                            <h1 class="text-2xl font-bold text-[#1c170d]">Jaffna Monitor</h1>
+                            <p class="text-sm text-[#9b844b]">News & Publications</p>
+                        </div>
+                    </a>
+                </div>
+                <nav class="hidden md:flex space-x-8">
+                    <a href="index.html" class="text-[#1c170d] hover:text-[#9b844b] transition-colors">Home</a>
+                    <a href="#" class="text-[#1c170d] hover:text-[#9b844b] transition-colors">News</a>
+                    <a href="#" class="text-[#1c170d] hover:text-[#9b844b] transition-colors">About</a>
+                    <a href="#" class="text-[#1c170d] hover:text-[#9b844b] transition-colors">Contact</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Breadcrumb -->
+    <div class="bg-white border-b border-[#f3f0e7]">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-3">
+            <nav class="flex" aria-label="Breadcrumb">
+                <ol class="flex items-center space-x-2">
+                    <li>
+                        <a href="index.html" class="text-[#9b844b] hover:text-[#1c170d] transition-colors text-sm">
+                            Home
+                        </a>
+                    </li>
+                    <li>
+                        <svg class="w-4 h-4 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path>
+                        </svg>
+                    </li>
+                    <li>
+                        <span class="text-gray-500 text-sm">Monitor Memo</span>
+                    </li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <article class="bg-white rounded-lg shadow-lg overflow-hidden">
+            <!-- Article Header -->
+            <div class="p-8 border-b border-[#f3f0e7]">
+                <h1 class="text-3xl md:text-4xl font-bold text-[#1c170d] mb-4 leading-tight">Monitor Memo</h1>
+                <div class="flex items-center text-[#9b844b] text-sm mb-4">
+                    <span>By Jaffna Monitor</span>
+                    <span class="mx-2">•</span>
+                    <span>Published 63</span>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <div class="flex items-center space-x-2">
+                        <svg class="w-4 h-4 text-[#9b844b]" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clip-rule="evenodd"></path>
+                        </svg>
+                        <span class="text-sm text-[#9b844b]">5 min read</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Article Content -->
+            <div class="p-8">
+                <div class="prose prose-lg max-w-none">
+                    <h1>Monitor Memo</h1>
+<p>Jaffna Monitor
+hellojaffnamonitor@gmail.com
+63
+R
+emarks made by MP Kitnan Selvaraj, 
+a first-time Tamil parliamentarian 
+representing the National People's Power 
+(NPP) from the Badulla District, have 
+drawn criticism from political figures in the 
+Northern Province. Selvaraj, a former estate 
+worker and long-time advocate for plantation 
+communities, referred to the proposal to 
+merge the Northern and Eastern Provinces as 
+an idea rooted in "Tamil extremism" during a 
+recent parliamentary session. He also rejected 
+calls for a separate Tamil state, prompting 
+backlash from some Tamil political leaders.
+Selvaraj's comments were perceived by critics 
+as dismissive of longstanding Tamil demands 
+for political autonomy and the historical 
+grievances of Tamil communities. Among 
+those who responded was Saba Kugathas, a 
+former member of the Northern Provincial 
+Council and a representative of the Eelam 
+People's Revolutionary Liberation Front 
+(EPRLF).
+Monitor Memo
+Tamil Leaders Criticize MP Selvaraj’s 
+Stance on Northern-Eastern Merger</p>
+<p><img alt="p063_i1.jpg" src="../images_out/013_monitor_memo/p063_i1.jpg" /></p>
+<p>Jaffna Monitor
+hellojaffnamonitor@gmail.com
+64
+In a statement, Kugathas accused Selvaraj 
+of undermining the broader Tamil struggle 
+for political rights and self-governance. He 
+described the remarks as "reckless" and argued 
+that they ignored the sacrifices made by Tamil 
+civilians and others in pursuit of those goals.
+"MP Selvaraj's comments fail to recognize the 
+historical realities of Tamil settlements in the 
+North and East. Instead of focusing on the 
+pressing issues faced by the plantation workers 
+who elected him, he appears to be echoing 
+Sinhala nationalist rhetoric in Parliament," 
+Kugathas said.
+Kugathas also drew attention to ongoing 
+challenges in the plantation sector, where 
+workers continue to face low wages and 
+poor living conditions. He urged Selvaraj to 
+prioritize the concerns of his constituency over 
+making divisive statements regarding Tamil 
+rights.
+Referencing the historical context of Tamil 
+governance in the Northern and Eastern 
+Provinces and the Indo-Lanka Accord, which 
+recognized the merger of the two provinces, 
+Kugathas challenged Selvaraj to better 
+understand the complexities of the issue. 
+He criticized the use of terms like "Tamil 
+extremism" to describe the merger proposal, 
+describing it as an approach that risks fueling 
+further division.
+The separation of the Northern and Eastern 
+Provinces was the result of a court ruling 
+initiated by the JVP, a party historically 
+associated with Sinhala nationalist 
+sentiments," Kugathas said. "Labeling the 
+merger proposal as 'Tamil extremism' is not 
+only misleading but also risks exacerbating 
+existing divisions," he added.</p>
+<p><img alt="p064_i1.jpg" src="../images_out/013_monitor_memo/p064_i1.jpg" /></p>
+<p>Jaffna Monitor
+hellojaffnamonitor@gmail.com
+65
+Story
+T
+he sky was overcast. Kādaṉ  stood on the 
+wooden watchtower and let his eyes roam. 
+They swiftly scanned around Kusavai lake 
+and surfaced on the east by the orchard of 
+Indian laurel trees. The orchard seems to be 
+in a trance without even a leaf stirring. Even 
+the cranes and tiny birds that would fly away 
+at the slightest provocation, screaming bloody 
+The Hunt
+Translated from the original Tamil 
+short story  vēṭṭai (Ntl;il)  from the 
+1992 collection of short stories titled 
+makkattuc cālvai (kf;fj;Jr; rhy;it) 
+by S.L.M. Hanifa
+Translated by: 
+Eḻuttukkiṉiyavaṉ 
+(vOj;Jf;fpdpatd;)</p>
+<p><img alt="p065_i1.jpg" src="../images_out/013_monitor_memo/p065_i1.jpg" /></p>
+<p>Jaffna Monitor
+hellojaffnamonitor@gmail.com
+66
+murder, seem to be fast asleep.
+His eyes turned their gaze towards the sky. 
+Not even a star glittered. The waning moon 
+was bathing in the waters of the Mahāveli.
+If the overcast sky would permit a drizzle 
+soon, Kādaṉ would definitely score a hunt.
+In his mindscape a herd of deer galloped away. 
+Kādaṉ folded his arms, unfolded them again, 
+and shook them vigorously. He turned towards 
+Teacher:
+“Teacher, get up; the morning star has risen.”
+“How is it this cold? It seems it would even 
+beat the cold spells in our Kandy town.”
+“If we get a rainy season downpour here, your 
+Kandy cannot hold a candle!” Kādaṉ said 
+proudly.
+Kandy Teacher warmed his arms and legs in 
+the fire.
+In a little while, the koṇdal wind began to 
+blow from the east. Having let it carry away 
+their human scent, they started circling 
+Kusavai lake in a northeasterly direction.
+Kādaṉ walked swiftly, Kandy Teacher jogging 
+to keep up with him.
+There were only two people in the village who 
+could walk like Kādaṉ. One was Tiger Sēhu, 
+and the other was the government functionary 
+for the farms in the village, Nūhu.
+The thorns along the way that dared to prick 
+Kādaṉ’s soles were immediately blunted with 
+a “snick”. The skin on his sole was taut and 
+rigid like the skin on the neck of a fully grown 
+sambar deer. Teacher kept running behind 
+Kādaṉ, occasionally lifting a foot to sooth its 
+sole being ravaged by thorns.
+They both had the same thought, ‘Today we 
+must find game meat to grill.’ Both were</p>
+<p><img alt="p066_i1.jpg" src="../images_out/013_monitor_memo/p066_i1.jpg" /></p>
+<p>Jaffna Monitor
+hellojaffnamonitor@gmail.com
+67
+on the same quest. Kādaṉ resumed the 
+conversation.
+“Can I sleep just because it is night, Teacher? 
+All day I have to herd the cows like a cow 
+myself. In the evening, I have to go to the lake 
+shore to catch fish for the boss — if there is 
+no fish, I have to at least buy him some eggs 
+cheaply. Occasionally, someone leaves town 
+after being transferred elsewhere. On those 
+days, I must grill them wild boar,” he hawked 
+and spat the phlegm out.
+His flashlight spotted something and focused 
+on it. Against the pitch-black backdrop tiny 
+green marbles glittered. ‘It is a herd of deer…’ 
+his tongue curled inwards immediately.
+“Chee! That is a just a bird, Teacher. Everyone 
+talks about truth and justice at the beginning. 
+As time goes by, every donkey shows its 
+true colors. Among them Senanayake is the 
+worst. They ogle at our women cutting grass. 
+Our women also grin and giggle at them 
+shamelessly,” Kādaṉ said disgustedly.
+Teacher had a sudden realization.
+He remembered the gossip he had heard about 
+Kādaṉ’s wife.
+‘Who knows what the truth is!’ ‘If we chatter 
+like this, the deer will scramble! Kādaṉ must 
+have had a little bit of Pāthamuthu rāthā’s 
+ganja, perhaps.’ Teacher’s thoughts scrambled 
+back into their shells like startled turtles.
+“Teacher, let us warm ourselves a little at 
+Puḷiyadipattu and circle Mōttāṉ lake. We’ll 
+find something there.”
+Teacher let out a “muh” as he shivered in the 
+cold.
+“Look Teacher, the tamarind tree has fruited. 
+We need deer bones to cook with this 
+tamarind,” Kādaṉ drooled at the thought.
+“Dēy! Hanifā kākā, are you so cold? If you 
+move any closer, you will be on fire yourself.”
+Hanifā kākā sat up when he heard Kādaṉ’s 
+voice. He shook his hands vigorously and 
+alternated his hands and feet over the flames</p>
+<p><img alt="p067_i1.jpg" src="../images_out/013_monitor_memo/p067_i1.jpg" /></p>
+<p>Jaffna Monitor
+hellojaffnamonitor@gmail.com
+68
+to warm up.
+“Do we have any sugar? Let’s 
+make some tea,” said Kādaṉ.
+“How long since we set eyes on 
+sugar!” exclaimed Hanifā kākā.
+“Teacher! Get up. If we lounge 
+around the fire like this, the job 
+won’t get done,” Kādaṉ was 
+keen to get on with the hunt.
+“Kādeṉ! Go look in Mōttāṉ 
+lake. When I was herding the 
+cattle back home during the 
+day, I saw that a sambar deer 
+had been shot there. If you get 
+lucky, don’t forget us,” Hanifā 
+kākā rubbed his hands as he 
+spoke. “Today, I came here 
+because of Teacher. He is being 
+transferred out. He is the one 
+who taught our children the 
+alphabet, at least. Our people 
+didn’t even give him a farewell 
+meal. If it had been an MP, they 
+would have bought a couple 
+of bottles, and roasted a wild 
+deer.”
+He slung the rifle over his 
+shoulder and started walking, 
+with Kandy Teacher following 
+at a trot.
+“Kādar! It is too cold. The 
+cartilage on my nose is crying.”
+“Yes, yes! Don’t make a noise,” 
+Kādaṉ warned him as he 
+scanned the lake shore with his 
+flashlight.
+The darkness enveloped and 
+swallowed the rays of light. A herd of deer that jumped up 
+and scrambled was caught in the light. The next instant the 
+“bang!” of a gunshot shook the entire area.
+The wounded deer desperately hobbled towards the cover 
+of the bush, dragging its hooves. Teacher caught its feet and 
+folded it, towards qibla, the direction towards Mecca.
+As the lips muttered ‘Bismillah’, a knife was sunk into the 
+deer’s neck.
+After a few minutes, Kādaṉ sharpened his knife and began 
+skinning the deer. In his hands, the knife danced over the 
+deer’s body like an artist’s paintbrush.
+“Teacher! I knew already! That mangy dog at the house by 
+the tamarind tree is a lucky charm. If we encounter it on our 
+way to the hunt, we will definitely succeed.”
+The Teacher was panting, exhausted from carrying game 
+meat. He was sweating profusely, despite the morning chill.
+Daylight was slowly breaking.
+“Teacher! Do you not have any muttāsi either? If I go home, 
+I must have some tea, Teacher.”</p>
+<p><img alt="p068_i1.jpg" src="../images_out/013_monitor_memo/p068_i1.jpg" /></p>
+<p>Jaffna Monitor
+hellojaffnamonitor@gmail.com
+69
+“Why don’t we go to the mosque? You have to 
+smoke the meat for us anyway.”
+“I can’t, Teacher. I will go home first, 
+give some meat to the boss, sign in on the 
+attendance register, and will come around by 
+about eight.”
+Carrying his share of the meat and the deer’s 
+head, Kādaṉ turned the corner by the tamarind 
+tree.
+“Teacher! Be careful. Now is the time when 
+elephants return to the jungle,” Kādaṉ’s words 
+focused Teacher’s mind.
+As Kādaṉ neared his home in the farm’s 
+personnel quarters, he heard something 
+following him. It was the mangy dog from the 
+house by the tamarind tree. It was wagging its 
+tail vigorously.
+“Come, come, let’s go home.”
+The dog followed him, smacking its lips.
+When he reached home, he hung the meat 
+hook on the barbed-wire fence. He wanted to 
+relieve himself first …
+As he set foot on the veranda, the voices from 
+within the house penetrated his ears. His 
+heart was like the wounded deer, desperately 
+hobbling towards the cover of the bush, 
+dragging its hooves. 
+“Get up and get going. He will come soon.”
+He felt as if a knife was sunk into his neck.
+His stomach churned, even though it was still 
+very early in the morning.
+He hocked spit as hard as he could, and spat it 
+out with disgust
+He turned around.
+There – the mangy dog from the house by the 
+tamarind tree had savaged the meat hanging 
+from the barbed wire fence.</p>
+<p><img alt="p069_i1.jpg" src="../images_out/013_monitor_memo/p069_i1.jpg" /></p>
+                </div>
+            </div>
+
+            <!-- Article Footer -->
+            <div class="p-8 border-t border-[#f3f0e7] bg-gray-50">
+                <div class="flex flex-wrap items-center justify-between">
+                    <div class="mb-4 md:mb-0">
+                        <h4 class="text-sm font-semibold text-[#1c170d] mb-2">Tags:</h4>
+                        <div class="flex flex-wrap gap-2">
+                            <span class="tag">teacher</span>
+<span class="tag">kādaṉ</span>
+<span class="tag">tamil</span>
+<span class="tag">deer</span>
+<span class="tag">have</span>
+                        </div>
+                    </div>
+                    <div class="flex space-x-4">
+                        <a href="index.html" 
+                           class="inline-flex items-center px-4 py-2 bg-[#9b844b] text-white rounded-lg hover:bg-[#1c170d] transition-colors text-sm font-medium">
+                            <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                            </svg>
+                            Back to Home
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </article>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-[#1c170d] text-white py-12 mt-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div>
+                    <h3 class="text-xl font-bold mb-4">Jaffna Monitor</h3>
+                    <p class="text-gray-300">
+                        Dedicated to bringing you the latest news and insights from Jaffna and beyond.
+                    </p>
+                </div>
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Contact</h4>
+                    <p class="text-gray-300">hellojaffnamonitor@gmail.com</p>
+                    <p class="text-gray-300">Jaffna, Sri Lanka</p>
+                </div>
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Follow Us</h4>
+                    <div class="flex space-x-4">
+                        <a href="#" class="text-gray-300 hover:text-white transition-colors">
+                            <span class="sr-only">Facebook</span>
+                            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+                            </svg>
+                        </a>
+                        <a href="#" class="text-gray-300 hover:text-white transition-colors">
+                            <span class="sr-only">Twitter</span>
+                            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="border-t border-gray-700 mt-8 pt-8 text-center">
+                <p class="text-gray-300">&copy; 2024 Jaffna Monitor. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+  </body>
+</html>

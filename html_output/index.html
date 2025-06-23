@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jaffna Monitor - News & Publications</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?display=swap&amp;family=Newsreader%3Awght%40400%3B500%3B700%3B800&amp;family=Noto+Sans%3Awght%40400%3B500%3B700%3B900" />
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        .news-card {
+            transition: all 0.3s ease;
+        }
+        .news-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        .gradient-bg {
+            background: linear-gradient(135deg, #fcfbf8 0%, #f3f0e7 100%);
+        }
+    </style>
+</head>
+<body class="bg-[#fcfbf8] font-['Newsreader','Noto_Sans',sans-serif]">
+    <!-- Header -->
+    <header class="bg-white shadow-sm border-b border-[#f3f0e7] sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center space-x-4">
+                    <div class="w-12 h-12 bg-[#9b844b] rounded-full flex items-center justify-center">
+                        <span class="text-white font-bold text-xl">JM</span>
+                    </div>
+                    <div>
+                        <h1 class="text-2xl font-bold text-[#1c170d]">Jaffna Monitor</h1>
+                        <p class="text-sm text-[#9b844b]">News & Publications</p>
+                    </div>
+                </div>
+                <nav class="hidden md:flex space-x-8">
+                    <a href="index.html" class="text-[#1c170d] hover:text-[#9b844b] transition-colors">Home</a>
+                    <a href="#" class="text-[#1c170d] hover:text-[#9b844b] transition-colors">News</a>
+                    <a href="#" class="text-[#1c170d] hover:text-[#9b844b] transition-colors">About</a>
+                    <a href="#" class="text-[#1c170d] hover:text-[#9b844b] transition-colors">Contact</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="gradient-bg py-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h2 class="text-4xl md:text-6xl font-bold text-[#1c170d] mb-6">
+                Latest News from Jaffna
+            </h2>
+            <p class="text-xl text-[#9b844b] max-w-3xl mx-auto">
+                Stay informed with the latest stories, insights, and developments from the heart of Jaffna
+            </p>
+        </div>
+    </section>
+
+    <!-- News Grid -->
+    <section class="py-16">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                
+                <!-- Article 1 -->
+                <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg">
+                    <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center">
+                        <span class="text-white text-4xl font-bold">JM</span>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                            <span>December 15, 2024</span>
+                            <span class="mx-2">•</span>
+                            <span>Jaffna Monitor</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">
+                            Farewell to Dr. Raviraj: The Hands That Saved Jaffna
+                        </h3>
+                        <p class="text-gray-600 mb-4 line-clamp-3">
+                            A tribute to the remarkable legacy of Dr. Raviraj and his contributions to the medical community in Jaffna.
+                        </p>
+                        <a href="003_a_legacy_etched_in_courage_farewell_to_dr_s_ravira.html" 
+                           class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium">
+                            Read More
+                            <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Article 2 -->
+                <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg">
+                    <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center">
+                        <span class="text-white text-4xl font-bold">JM</span>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                            <span>December 15, 2024</span>
+                            <span class="mx-2">•</span>
+                            <span>Jaffna Monitor</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">
+                            What You Need to Know About Rat Fever (Leptospirosis)
+                        </h3>
+                        <p class="text-gray-600 mb-4 line-clamp-3">
+                            Essential information about leptospirosis, its symptoms, prevention, and treatment options.
+                        </p>
+                        <a href="004_what_you_need_to_know_about_rat_fever_leptospirosi.html" 
+                           class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium">
+                            Read More
+                            <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Article 3 -->
+                <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg">
+                    <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center">
+                        <span class="text-white text-4xl font-bold">JM</span>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                            <span>December 15, 2024</span>
+                            <span class="mx-2">•</span>
+                            <span>Jaffna Monitor</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">
+                            Why is Leptospirosis Famously Called Rat Fever?
+                        </h3>
+                        <p class="text-gray-600 mb-4 line-clamp-3">
+                            Exploring the origins of the term "rat fever" and its connection to leptospirosis.
+                        </p>
+                        <a href="005_why_is_leptospirosis_famously_called_rat_fever_are.html" 
+                           class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium">
+                            Read More
+                            <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Article 4 -->
+                <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg">
+                    <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center">
+                        <span class="text-white text-4xl font-bold">JM</span>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                            <span>December 15, 2024</span>
+                            <span class="mx-2">•</span>
+                            <span>Jaffna Monitor</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">
+                            Tamil Nationalist Leaders
+                        </h3>
+                        <p class="text-gray-600 mb-4 line-clamp-3">
+                            A comprehensive look at the influential Tamil nationalist leaders and their impact on the region.
+                        </p>
+                        <a href="006_tamil_nationalist_leaders.html" 
+                           class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium">
+                            Read More
+                            <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Article 5 -->
+                <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg">
+                    <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center">
+                        <span class="text-white text-4xl font-bold">JM</span>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                            <span>December 15, 2024</span>
+                            <span class="mx-2">•</span>
+                            <span>Jaffna Monitor</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">
+                            The Most Brutal Internal Killings Took Place in PL
+                        </h3>
+                        <p class="text-gray-600 mb-4 line-clamp-3">
+                            An investigation into the internal conflicts and their devastating impact on the community.
+                        </p>
+                        <a href="009_the_most_brutal_internal_killings_took_place_in_pl.html" 
+                           class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium">
+                            Read More
+                            <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Article 6 -->
+                <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg">
+                    <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center">
+                        <span class="text-white text-4xl font-bold">JM</span>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                            <span>December 15, 2024</span>
+                            <span class="mx-2">•</span>
+                            <span>Jaffna Monitor</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">
+                            Nathaswara Osaiyile: An Ancient Art Form
+                        </h3>
+                        <p class="text-gray-600 mb-4 line-clamp-3">
+                            Exploring the rich cultural heritage of Nathaswara music and its significance in Tamil culture.
+                        </p>
+                        <a href="010_nathaswara_osaiyile_ehjtu_xirapny_an_ancient_art_f.html" 
+                           class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium">
+                            Read More
+                            <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Article 7 -->
+                <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg">
+                    <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center">
+                        <span class="text-white text-4xl font-bold">JM</span>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                            <span>December 15, 2024</span>
+                            <span class="mx-2">•</span>
+                            <span>Jaffna Monitor</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">
+                            Dharma, Justice and Human Rights
+                        </h3>
+                        <p class="text-gray-600 mb-4 line-clamp-3">
+                            A philosophical exploration of dharma, justice, and their relationship to human rights.
+                        </p>
+                        <a href="011_dharma_justice_and_human_rights.html" 
+                           class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium">
+                            Read More
+                            <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Article 8 -->
+                <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg">
+                    <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center">
+                        <span class="text-white text-4xl font-bold">JM</span>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                            <span>December 15, 2024</span>
+                            <span class="mx-2">•</span>
+                            <span>Jaffna Monitor</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">
+                            Human Rights and Inhuman Wrongs
+                        </h3>
+                        <p class="text-gray-600 mb-4 line-clamp-3">
+                            Examining the contrast between human rights principles and the reality of human rights violations.
+                        </p>
+                        <a href="012_human_rights_and_inhuman_wrongs.html" 
+                           class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium">
+                            Read More
+                            <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </article>
+
+                <!-- Article 9 -->
+                <article class="news-card bg-white rounded-lg overflow-hidden shadow-lg">
+                    <div class="h-48 bg-gradient-to-br from-[#9b844b] to-[#1c170d] flex items-center justify-center">
+                        <span class="text-white text-4xl font-bold">JM</span>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center text-sm text-[#9b844b] mb-2">
+                            <span>December 15, 2024</span>
+                            <span class="mx-2">•</span>
+                            <span>Jaffna Monitor</span>
+                        </div>
+                        <h3 class="text-xl font-bold text-[#1c170d] mb-3 line-clamp-2">
+                            Monitor Memo - Latest Updates
+                        </h3>
+                        <p class="text-gray-600 mb-4 line-clamp-3">
+                            The latest news and updates from the Jaffna Monitor editorial team.
+                        </p>
+                        <a href="013_monitor_memo.html" 
+                           class="inline-flex items-center text-[#9b844b] hover:text-[#1c170d] transition-colors font-medium">
+                            Read More
+                            <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                            </svg>
+                        </a>
+                    </div>
+                </article>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-[#1c170d] text-white py-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div>
+                    <h3 class="text-xl font-bold mb-4">Jaffna Monitor</h3>
+                    <p class="text-gray-300">
+                        Dedicated to bringing you the latest news and insights from Jaffna and beyond.
+                    </p>
+                </div>
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Contact</h4>
+                    <p class="text-gray-300">hellojaffnamonitor@gmail.com</p>
+                    <p class="text-gray-300">Jaffna, Sri Lanka</p>
+                </div>
+                <div>
+                    <h4 class="text-lg font-semibold mb-4">Follow Us</h4>
+                    <div class="flex space-x-4">
+                        <a href="#" class="text-gray-300 hover:text-white transition-colors">
+                            <span class="sr-only">Facebook</span>
+                            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+                            </svg>
+                        </a>
+                        <a href="#" class="text-gray-300 hover:text-white transition-colors">
+                            <span class="sr-only">Twitter</span>
+                            <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
+                                <path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="border-t border-gray-700 mt-8 pt-8 text-center">
+                <p class="text-gray-300">&copy; 2024 Jaffna Monitor. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html> 
